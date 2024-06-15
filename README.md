@@ -1,6 +1,8 @@
 # Vehicle Traffic Flow Management
 
 This project is a vehicle traffic flow management system using YOLOv8 for object detection and tracking. The system processes a video to detect vehicles, estimate their speeds using ultralytics speed estimation, and count them as they pass through predefined lines. It also provides a graphical interface to display the video feed, bar charts of vehicle counts, line charts of vehicle flow, and gauge charts of average speeds.
+![Screenshot (153)](https://github.com/kasun98/vehicles_trafficflow/assets/63708260/9c6748ee-19ff-4fd2-88c4-e095895e5581)
+
 
 ## Table of Contents
 
