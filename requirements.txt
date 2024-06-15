@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+ultralytics
+label-studio
+flask
+pytube
+plotly
+tkinter
+threading
+io
+cv2
+PIL
